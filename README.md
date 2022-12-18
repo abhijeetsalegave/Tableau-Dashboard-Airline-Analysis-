@@ -11,4 +11,4 @@
 ## Tableau Profile- https://public.tableau.com/app/profile/abhijeet.salegave
 
 ![Airline Dashboard](https://user-images.githubusercontent.com/104886543/204987708-1fd2ce92-9dd9-48fa-8d8d-49577b2f6760.png)
-![IMG_2943](https://user-images.githubusercontent.com/104886543/208316691-1bf7daeb-0f5e-4396-9298-dc649fdfc01e.jpeg)
+
